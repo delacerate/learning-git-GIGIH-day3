@@ -1,0 +1,56 @@
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #27981b;
+  color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+form button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
